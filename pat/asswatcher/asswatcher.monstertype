@@ -8,7 +8,7 @@
 
   "animation" : "asswatcher.animation",
 
-  "dropPools" : [],
+  "dropPools" : [ { "default" : "pat_asswatcherTreasure", "bow" : "pat_asswatcherHunting" } ],
 
   "baseParameters" : {
     "scripts" : ["/monsters/monster.lua"],

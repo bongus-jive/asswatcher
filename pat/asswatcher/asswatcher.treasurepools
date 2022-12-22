@@ -1,0 +1,24 @@
+{
+  "pat_asswatcherTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.999, "pool" : "basicMonsterTreasure"},
+        {"weight" : 0.001, "item" : "pat_asswatcheraf"}
+      ],
+      "poolRounds" : [
+        [0.20, 0],
+        [0.80, 1]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "pat_asswatcherHunting" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.998, "item" : "alienmeat"},
+        {"weight" : 0.002, "item" : "pat_asswatcheraf"}
+      ]
+    } ]
+  ]
+}
