@@ -205,7 +205,7 @@
     "feetOffset" : [0, -8],
     "capturable" : true,
     "captureHealthFraction" : 0.5,
-    "nametagColor" : [255, 128, 206]
-    //"captureCollectables" : { "monsters" : "pat_asswatcher" }
+    "nametagColor" : [255, 128, 206],
+    "captureCollectables" : { "monsters" : "pat_asswatcher" }
   }
 }
