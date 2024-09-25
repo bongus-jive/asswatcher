@@ -11,5 +11,9 @@
       [ null, "land.1", "land.2", null ],
       [ null, "blink.1", "blink.2", null ]
     ]
+  },
+
+  "aliases": {
+    "blink.3": "blink.1"
   }
 }

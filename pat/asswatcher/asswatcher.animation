@@ -18,27 +18,27 @@
           },
           "hop": {
             "frames": 2,
-            "cycle": 0.25,
+            "cycle": 0.1,
             "mode": "transition",
             "transition": "hopfull",
             "properties": {
               "immediateSoundRangeMultiplier": 0.5
             },
             "frameProperties": {
-              "immediateSound": [ "", "/sfx/npc/monsters/gleap_hop.ogg" ]
+              "immediateSound": [ "", "/sfx/npc/monsters/oogler_step.ogg" ]
             }
           },
           "hopfull": {
             "frames": 3,
-            "cycle": 0.325
+            "cycle": 0.15
           },
           "fall": {
             "frames": 3,
-            "cycle": 0.325
+            "cycle": 0.15
           },
           "land": {
             "frames": 2,
-            "cycle": 0.25,
+            "cycle": 0.1,
             "mode": "transition",
             "transition": "idle"
           }

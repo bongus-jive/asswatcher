@@ -28,15 +28,34 @@
 
       "hostileActions": [
         {
+          "name": "action-blink",
+          "cooldown": 5,
+          "parameters": { }
+        },
+        {
           "name": "action-hop",
-          "cooldown": 0.0,
+          "cooldown": 1.2,
           "parameters": {
-            "verticalSpeed": 24,
+            "verticalSpeed": 12,
+            "horizontalSpeed": 16,
+            "hopSequence": 3,
+            "timeBetweenHops": 0,
+            "windupTime": 0,
+            "landTime": 0,
+            "hopAwayFromWall": false,
+            "wallVerticalSpeed": 35
+          }
+        },
+        {
+          "name": "action-hop",
+          "cooldown": 1.2,
+          "parameters": {
+            "verticalSpeed": 16,
             "horizontalSpeed": 12,
-            "hopSequence": 1,
-            "timeBetweenHops": 0.0,
-            "windupTime": 0.12,
-            "landTime": 0.1,
+            "hopSequence": 2,
+            "timeBetweenHops": 0,
+            "windupTime": 0,
+            "landTime": 0,
             "hopAwayFromWall": false,
             "wallVerticalSpeed": 35
           }
@@ -45,15 +64,33 @@
 
       "periodicActions": [
         {
+          "name": "action-blink",
+          "cooldown": 4,
+          "parameters": { }
+        },
+        {
           "name": "action-hop",
-          "cooldown": 0.5,
+          "cooldown": 2,
           "parameters": {
             "verticalSpeed": 18,
             "horizontalSpeed": 10,
+            "hopSequence": 2,
+            "timeBetweenHops": 0,
+            "windupTime": 0,
+            "landTime": 0,
+            "hopAwayFromWall": true
+          }
+        },
+        {
+          "name": "action-hop",
+          "cooldown": 2,
+          "parameters": {
+            "verticalSpeed": 15,
+            "horizontalSpeed": 10,
             "hopSequence": 3,
-            "timeBetweenHops": 0.15,
-            "windupTime": 0.1,
-            "landTime": 0.1,
+            "timeBetweenHops": 0,
+            "windupTime": 0,
+            "landTime": 0,
             "hopAwayFromWall": true
           }
         },
@@ -61,12 +98,12 @@
           "name": "action-hop",
           "cooldown": 4.25,
           "parameters": {
-            "verticalSpeed": 30,
-            "horizontalSpeed": 5,
+            "verticalSpeed": 20,
+            "horizontalSpeed": 6,
             "hopSequence": 1,
             "timeBetweenHops": 0,
-            "windupTime": 0.25,
-            "landTime": 0.4,
+            "windupTime": 0,
+            "landTime": 0,
             "hopAwayFromWall": true
           }
         }
@@ -79,20 +116,19 @@
         },
         {
           "name": "action-hop",
-          "cooldown": 0.0,
+          "cooldown": 1,
           "parameters": {
-            "verticalSpeed": 24,
-            "horizontalSpeed": 12,
-            "hopSequence": 1,
-            "timeBetweenHops": 0.0,
-            "windupTime": 0.12,
-            "landTime": 0.2,
+            "verticalSpeed": 12,
+            "horizontalSpeed": 16,
+            "hopSequence": 3,
+            "timeBetweenHops": 0,
+            "windupTime": 0,
+            "landTime": 0,
             "hopAwayFromWall": false,
             "wallVerticalSpeed": 35
           }
         }
       ]
-
     },
 
     "touchDamage": {
