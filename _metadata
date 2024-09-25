@@ -1,10 +1,11 @@
 {
-  "version" : "1.2",
   "author" : "patman",
-  "tags" : "Miscellaneous|NPCs and Creatures",
-  "description" : "adds the asswatcher\n\nhe jumps around and bumps into things, and also watches his own ass\n\nfind him on alien planets\n\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/wXjYMqP.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
-  "name" : "pat_asswatcher",
+  "description" : "adds the asswatcher\n\nhe jumps around and bumps into things, and also watches his own ass\n\nfind him on alien planets",
   "friendlyName" : "The Asswatcher",
+  "link" : "steam://url/CommunityFilePage/2900639932",
+  "name" : "pat_asswatcher",
   "steamContentId" : "2900639932",
-  "link" : "steam://url/CommunityFilePage/2900639932"
+  "steamDescription" : "adds the asswatcher\n\nhe jumps around and bumps into things, and also watches his own ass\n\nfind him on alien planets\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/asswatcher",
+  "tags" : "Miscellaneous|NPCs and Creatures",
+  "version" : "1.3"
 }
