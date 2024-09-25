@@ -1,32 +1,32 @@
 {
-  "objectName" : "pat_asswatcheraf",
-  "colonyTags" : ["pretty"],
-  "rarity" : "Legendary",
-  "category" : "actionFigure",
-  "collectablesOnPickup" : { "actionfigures" : "pat_asswatcheraf" },
-  "price" : 5000,
-  "printable" : false,
-  "description" : "The label reads, \"No redeeming qualities. All he has is one leg, an ass, and a head.\"",
-  "shortdescription" : "Asswatcher Figurine",
+  "objectName": "pat_asswatcheraf",
+  "colonyTags": [ "pretty" ],
+  "rarity": "Legendary",
+  "category": "actionFigure",
+  "collectablesOnPickup": { "actionfigures": "pat_asswatcheraf" },
+  "price": 5000,
+  "printable": false,
+  "description": "The label reads, \"No redeeming qualities. All he has is one leg, an ass, and a head.\"",
+  "shortdescription": "Asswatcher Figurine",
 
-  "inventoryIcon" : "figure.png",
-  "orientations" : [
+  "inventoryIcon": "figure.png",
+  "orientations": [
     {
-      "image" : "figure.png",
-      "imagePosition" : [-2, 0],
-      "direction" : "left",
-      "flipImages" : true,
+      "image": "figure.png",
+      "imagePosition": [ -2, 0 ],
+      "direction": "left",
+      "flipImages": true,
 
-      "spaces" : [ [0, 0], [0, 1] ],
-      "anchors" : [ "bottom" ]
+      "spaces": [ [ 0, 0 ], [ 0, 1 ] ],
+      "anchors": [ "bottom" ]
     },
     {
-      "image" : "figure.png",
-      "imagePosition" : [-2, 0],
-      "direction" : "right",
+      "image": "figure.png",
+      "imagePosition": [ -2, 0 ],
+      "direction": "right",
 
-      "spaces" : [ [0, 0], [0, 1] ],
-      "anchors" : [ "bottom" ]
+      "spaces": [ [ 0, 0 ], [ 0, 1 ] ],
+      "anchors": [ "bottom" ]
     }
   ]
 }

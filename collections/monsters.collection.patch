@@ -1,1 +1,11 @@
-[{"op":"add","path":"/collectables/pat_asswatcher","value":{"order":69,"monsterType":"pat_asswatcher","icon":"/pat/asswatcher/body/asswatcher.png:idle.1"}}]
+[
+  {
+    "op": "add",
+    "path": "/collectables/pat_asswatcher",
+    "value": {
+      "order": 69,
+      "monsterType": "pat_asswatcher",
+      "icon": "/pat/asswatcher/body/asswatcher.png:idle.1"
+    }
+  }
+]

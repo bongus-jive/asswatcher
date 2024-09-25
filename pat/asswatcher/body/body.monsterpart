@@ -1,9 +1,9 @@
 {
-  "name" : "pat_asswatcher",
-  "category" : "pat_asswatcher",
-  "type" : "body",
+  "name": "pat_asswatcher",
+  "category": "pat_asswatcher",
+  "type": "body",
 
-  "frames" : {
-    "body" : "asswatcher.png"
+  "frames": {
+    "body": "asswatcher.png"
   }
 }
